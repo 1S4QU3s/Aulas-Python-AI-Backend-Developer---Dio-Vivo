@@ -1,7 +1,7 @@
 # Sistema Bancário 
 
 ## Descrição
-O Sistema Bancário  é uma aplicação web para gerenciamento de contas bancárias, permitindo operações como depósitos, saques e extratos.
+Um pequeno códido em python simulando um sistema bancário, permitindo operações como depósitos, saques e extratos.
 
 ## Tecnologias Utilizadas até o momento:
 
